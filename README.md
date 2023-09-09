@@ -1,17 +1,16 @@
-### ¡Hola! 👋
+<h1 align="center">Hola 👋, soy Santiago Bruno</h1>
+<h3 align="center">Un apasionado desarrollador back-end de Argentina.</h3>
 
-Soy Santiago, un desarrollador fullstack especializado en tecnologías .NET, como C#, Blazor, MVC y ASP.NET Core Web API. Mi labor abarca el desarrollo completo de aplicaciones web, desde el frontend hasta el backend. Por ejemplo, actualmente estoy trabajando en la implementación de una aplicación de gestión de proyectos en Blazor, que combina una interfaz de usuario atractiva con una sólida lógica de negocio en el backend gracias a ASP.NET Core Web API.
+- 🔭 Actualmente estoy trabajando en [GoodApps](https://goodapps.com.ar/)
 
-Estoy constantemente aprendiendo y mejorando mis habilidades. Por ejemplo, recientemente he estado explorando las últimas características de C# 9 para mejorar el rendimiento y la eficiencia de mis aplicaciones.
+- 👨‍💻 Todos mis proyectos están disponibles en [https://sanbru12.github.io/Curriculum/](https://sanbru12.github.io/Curriculum/)
 
-Si estás buscando colaborar en un proyecto de desarrollo de software o necesitas ayuda con algún aspecto técnico, no dudes en contactarme. Estoy aquí para responder tus preguntas y brindar asistencia en lo que necesites.
+- 📫 como llegar a mi **santiagobrunodeveloper@gmail.com**
 
-¡Diviértete explorando mi perfil y proyectos en GitHub!
+<h3 align="left">Conectate conmigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/santiago bruno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago bruno" height="30" width="40" /></a>
+</p>
 
-- 🔭 Actualmente estoy trabajando en un proyecto de e-commerce desarrollado en Blazor.
-- 🌱 Estoy aprendiendo sobre la arquitectura de microservicios.
-- 👯 Estoy buscando colaborar en proyectos open source relacionados con tecnologías .NET.
-- 💬 Puedes preguntarme acerca de desarrollo web, C#, Blazor, o cualquier pregunta técnica que tengas.
-- 📫 Puedes contactarme a través de mi correo electrónico: santiago@example.com.
-- ⚡ Dato curioso: Soy un apasionado por la inteligencia artificial y estoy explorando el aprendizaje automático en mi tiempo libre.
-
+<h3 align="left">diomas y herramientas:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
