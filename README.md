@@ -5,7 +5,7 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://sanbru12.github.io/Curriculum/](https://sanbru12.github.io/Curriculum/)
 
-- 📫 como llegar a mi **santiagobrunodeveloper@gmail.com**
+- 📫 como llegar a mi **santiagobruno870@gmail.com**
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
